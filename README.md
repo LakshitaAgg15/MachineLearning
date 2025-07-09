@@ -42,7 +42,7 @@ Welcome to my Machine Learning project repository! This repo contains beginner-t
   - Confusion Matrix
 **DataSet Link**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-4) ***Insurance Charges Prediction (Linear vs Ridge vs Lasso Regression)***
+5) ***Insurance Charges Prediction (Linear vs Ridge vs Lasso Regression)***
   **Goal**: To predict medical insurance charges based on personal attributes like age, BMI, region, smoking habits, and more.
   **Algorithm**: Linear Regression, Ridge Regression, Lasso Regression
   **Highlights**:
