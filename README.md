@@ -14,7 +14,7 @@ Welcome to my Machine Learning project repository! This repo contains beginner-t
     -Visualization of decision boundary using Matplotlib
    **DataSet Link**: https://www.kaggle.com/datasets/iamaniket/suv-data
 
-2) ***Student Social media Addiction analysis:***
+3) ***Student Social media Addiction analysis:***
   **Goal**: To predict how social media habits (platforms, frequency, etc.) influence students' academic performance based on self-reported data.
   **Algorithm**: Linear Regression
   **Highlights**:
