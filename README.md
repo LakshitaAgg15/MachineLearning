@@ -88,6 +88,26 @@ Welcome to my Machine Learning project repository! This repo contains beginner-t
      
 **DataSet Link**: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
+6) ***Loan Approval Prediction (Logistic vs SVM vs KNN vs Random Forest)***
+   
+  **Goal**:To predict whether a loan will be approved based on applicant information such as gender, marital status, income, education, employment status, and property area..
+  
+  **Algorithm**:Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Random Forest
+  
+  **Highlights**:
+  
+      -Missing value imputation using mode (for categorical) and median (for numerical)
+
+      -Label Encoding for categorical variables
+      
+      -Trained and compared four classification models
+      
+      -Achieved best accuracy of 81% using Random Forest
+      
+      -Evaluated models using accuracy, confusion matrix, and classification report
+     
+**DataSet Link**: https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data?select=train.csv 
+
 
 
                                                            ............MORE COMING SOON..........
